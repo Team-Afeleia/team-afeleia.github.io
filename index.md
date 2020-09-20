@@ -2,17 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 팀 아펠리아
 
-[Link to another page](./another-page.html).
+안녕하십니까! 저희는 꿈을 쫓아 가는 팀 아펠리아입니다! 아펠리아(Afeleia)는 천진난만한, 순진함이라는 뜻을 담고 있는 그리스어입니다. 저희는 순수하게 저희가 만들고 싶은 것을 만든다는 뜻을 담아 팀을 만들었습니다.
 
-There should be whitespace between paragraphs.
+# 저희가 주로 만드는 것들
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+저희는 주로 컴퓨터 프로그램을 만들고 있습니다. 현재 개발한 것은 필립봇이 있습니다.
 
 ## Header 2
 
